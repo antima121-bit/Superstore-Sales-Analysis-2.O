@@ -41,8 +41,5 @@ Our analysis will be carried out using Excel, MySQL, and Tableau. Excel will ser
 * Finally, for our clientele, we have 793 customers total and the most customers in California, New York, and Texas. The case of Texas is pretty ironic since it is also the state that losses us the most money. So we must take a critical decision about Texas first as we absolutely can’t break through now. California and New York are pretty obvious, we have to be outstanding and be the best of what there is to offer in our respective niche.
 --------
 
-  ### Author: Lakshmi Kant
-* Linkedin: https://www.linkedin.com/in/kant-ai/
-* Portfolio: https://kantrixai.netlify.app/
-
+  ### Author: Antima Mishra
 
